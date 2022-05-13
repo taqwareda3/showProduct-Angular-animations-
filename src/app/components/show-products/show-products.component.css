@@ -1,5 +1,5 @@
 .btn-group{
-    margin-left: 35%;
+    margin-left: 37%;
 }
 .card-style:hover{
     box-shadow: 10px 10px 5px rgb(188, 194, 197);
@@ -9,6 +9,8 @@
       color: white;
       font-weight: 500;
       height: 50px;
+      font-size: 20px;
+      
 
   }
 .btn-group button:nth-child(odd){
